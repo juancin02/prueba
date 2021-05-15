@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7  La Guardia del Leon" tvg-logo="https://i.imgur.com/K1LjVnC.png" group-title="TV | 24/7 Series",24/7  La Guardia del Leon
-http://l3d.us:8080/live/juan2/EGPW6rsvtf/186401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="What If (2013)" tvg-logo="http://l3dtv.ga:8080/images/5e757541e88613b0431f9340b8216ed2.jpg" group-title="VOD | Comedia",What If (2013)
-http://l3d.us:8080/movie/juan2/EGPW6rsvtf/40587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tal para cual" tvg-logo="https://www.mediafire.com/view/0vhhkyc427x6qdx/alNmy6L.png/file" group-title="VOD | Familiar (es)",Tal para cual
+#EXTINF:-1 tvg-id="" tvg-name="Grease" tvg-logo="https://i1.wp.com/roquemadrid.com/wp-content/uploads/2009/02/grease1.jpg?fit=800%2C1200&ssl=1" group-title="VOD | Familiar (es)",Grease
+https://www.mediafire.com/file/074bkriuv5e4rju/Vaselina_1080p_id_621%255B1%255D.mkv/file
+#EXTINF:-1 tvg-id="" tvg-name="Bohemia Rhapsody" tvg-logo="https://pics.filmaffinity.com/Bohemian_Rhapsody-748186150-large.jpg" group-title="VOD | Familiar (es),Bohemia Rhapsody
+https://www.mediafire.com/file/bz9p9ujttn1l6l7/Bohemian_Rhapsody_1080p_id_424694%255B1%255D.mkv/file
+#EXTINF:-1 tvg-id="" tvg-name="Tal para cual" tvg-logo="https://es.web.img3.acsta.net/pictures/210/512/21051282_20131021162213637.jpg" group-title="VOD | Familiar (es)",Tal para cual
 https://www.mediafire.com/file/v8pm4fjnekuui1l/Tal_Para_Cual_1080p_LAT_id_32644.mkv/file
-#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 1" tvg-logo="https://www.facebook.com/messenger_media/?thread_id=100006605438193&attachment_id=526194085230826&message_id=mid.%24cAABa9JoxPPF_oHNN_F5by4CWryr2" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 1
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 1" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/04/17/16186242077972.png" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 1
 https://www.mediafire.com/file/ao37ifydwmacza9/Luis_Miguel_S02E01.mkv/file
-#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 2" tvg-logo="https://www.facebook.com/messenger_media/?thread_id=100006605438193&attachment_id=526194085230826&message_id=mid.%24cAABa9JoxPPF_oHNN_F5by4CWryr2" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 2
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 2" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/04/17/16186242077972.png" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 2
 https://www.mediafire.com/file/vc4viak9kqwx0db/Luis_Miguel_S02E02.mkv/file
-#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 3" tvg-logo="https://www.facebook.com/messenger_media/?thread_id=100006605438193&attachment_id=526194085230826&message_id=mid.%24cAABa9JoxPPF_oHNN_F5by4CWryr2" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 3
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 3" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/04/17/16186242077972.png" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 3
 https://www.mediafire.com/file/vx9noa8h7jdyc9z/Luis_Miguel_S02E03.mkv/file
-#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 4" tvg-logo="https://www.facebook.com/messenger_media/?thread_id=100006605438193&attachment_id=526194085230826&message_id=mid.%24cAABa9JoxPPF_oHNN_F5by4CWryr2" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 4
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 4" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/04/17/16186242077972.png" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 4
 https://www.mediafire.com/file/8kn7be52u3xsryl/Luis_Miguel_S02E04.mkv/file
-#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 5" tvg-logo="https://www.facebook.com/messenger_media/?thread_id=100006605438193&attachment_id=526194085230826&message_id=mid.%24cAABa9JoxPPF_oHNN_F5by4CWryr2" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 5
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel Temporada 2 capitulo 5" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/04/17/16186242077972.png" group-title="SER | Latinas",Luis Miguel Temporada 2 capitulo 5
 https://www.mediafire.com/file/d8rp6jqmrrca0gl/Luis_Miguel_S02E05.mkv/file
-#EXTINF:-1 tvg-id="" tvg-name="Porque el Amor Manda S01 E23" tvg-logo="http://l3dtv.ga:8080/images/2c41e7768ea66f95097fa574af995e10.jpg" group-title="SER | Latinas",Porque el Amor Manda S01 E23
-http://l3d.us:8080/series/juan2/EGPW6rsvtf/165188.avi
